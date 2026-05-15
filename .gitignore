@@ -44,11 +44,11 @@ __pycache__/
 .venv/
 
 # data (large generated artifacts)
-/data/products_with_embeddings.json
-/data/embeddings.bin
-/data/demo.csv
-/data/prod_chat.csv
+data/products_with_embeddings.json
+data/embeddings.bin
+data/demo.csv
+data/prod_chat.csv
 
-/scripts/smoke_cluby.ts
-/dataset-analysis/
+scripts/smoke_cluby.ts
+dataset-analysis/
 
