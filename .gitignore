@@ -46,6 +46,7 @@ __pycache__/
 # data (large generated artifacts)
 data/products_with_embeddings.json
 data/embeddings.bin
+data/embeddings.json
 data/demo.csv
 data/prod_chat.csv
 
