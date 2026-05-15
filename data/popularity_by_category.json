@@ -1,0 +1,3288 @@
+{
+  "Ladieswear::T-shirt": [
+    {
+      "article_id": "0665217003",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0610776087",
+      "units_sold_30d": 2511,
+      "rank": 2
+    },
+    {
+      "article_id": "0649263001",
+      "units_sold_30d": 1641,
+      "rank": 3
+    },
+    {
+      "article_id": "0800691003",
+      "units_sold_30d": 1213,
+      "rank": 4
+    },
+    {
+      "article_id": "0622845004",
+      "units_sold_30d": 960,
+      "rank": 5
+    }
+  ],
+  "Ladieswear::Skirt": [
+    {
+      "article_id": "0783329001",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0649683001",
+      "units_sold_30d": 2511,
+      "rank": 2
+    },
+    {
+      "article_id": "0775931002",
+      "units_sold_30d": 1641,
+      "rank": 3
+    },
+    {
+      "article_id": "0719690001",
+      "units_sold_30d": 1213,
+      "rank": 4
+    },
+    {
+      "article_id": "0599719005",
+      "units_sold_30d": 960,
+      "rank": 5
+    },
+    {
+      "article_id": "0850446001",
+      "units_sold_30d": 792,
+      "rank": 6
+    },
+    {
+      "article_id": "0734236001",
+      "units_sold_30d": 674,
+      "rank": 7
+    },
+    {
+      "article_id": "0745357002",
+      "units_sold_30d": 586,
+      "rank": 8
+    },
+    {
+      "article_id": "0767625003",
+      "units_sold_30d": 518,
+      "rank": 9
+    },
+    {
+      "article_id": "0814684002",
+      "units_sold_30d": 463,
+      "rank": 10
+    },
+    {
+      "article_id": "0655710008",
+      "units_sold_30d": 419,
+      "rank": 11
+    },
+    {
+      "article_id": "0841238003",
+      "units_sold_30d": 383,
+      "rank": 12
+    },
+    {
+      "article_id": "0865906003",
+      "units_sold_30d": 352,
+      "rank": 13
+    },
+    {
+      "article_id": "0636385003",
+      "units_sold_30d": 326,
+      "rank": 14
+    },
+    {
+      "article_id": "0686148001",
+      "units_sold_30d": 303,
+      "rank": 15
+    },
+    {
+      "article_id": "0736319001",
+      "units_sold_30d": 283,
+      "rank": 16
+    },
+    {
+      "article_id": "0699237001",
+      "units_sold_30d": 265,
+      "rank": 17
+    },
+    {
+      "article_id": "0639838012",
+      "units_sold_30d": 250,
+      "rank": 18
+    }
+  ],
+  "Ladieswear::Top": [
+    {
+      "article_id": "0807331001",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0819520008",
+      "units_sold_30d": 2511,
+      "rank": 2
+    },
+    {
+      "article_id": "0721135003",
+      "units_sold_30d": 1641,
+      "rank": 3
+    },
+    {
+      "article_id": "0758027001",
+      "units_sold_30d": 1213,
+      "rank": 4
+    },
+    {
+      "article_id": "0755851001",
+      "units_sold_30d": 960,
+      "rank": 5
+    },
+    {
+      "article_id": "0784926003",
+      "units_sold_30d": 792,
+      "rank": 6
+    },
+    {
+      "article_id": "0702493003",
+      "units_sold_30d": 674,
+      "rank": 7
+    },
+    {
+      "article_id": "0770315026",
+      "units_sold_30d": 586,
+      "rank": 8
+    },
+    {
+      "article_id": "0695856002",
+      "units_sold_30d": 518,
+      "rank": 9
+    },
+    {
+      "article_id": "0782759002",
+      "units_sold_30d": 463,
+      "rank": 10
+    },
+    {
+      "article_id": "0611221004",
+      "units_sold_30d": 419,
+      "rank": 11
+    },
+    {
+      "article_id": "0878080002",
+      "units_sold_30d": 383,
+      "rank": 12
+    }
+  ],
+  "Ladieswear::Vest top": [
+    {
+      "article_id": "0572797031",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0763057004",
+      "units_sold_30d": 2511,
+      "rank": 2
+    },
+    {
+      "article_id": "0768759003",
+      "units_sold_30d": 1641,
+      "rank": 3
+    },
+    {
+      "article_id": "0781403002",
+      "units_sold_30d": 1213,
+      "rank": 4
+    },
+    {
+      "article_id": "0710455005",
+      "units_sold_30d": 960,
+      "rank": 5
+    }
+  ],
+  "Ladieswear::Bra": [
+    {
+      "article_id": "0744934012",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0654383001",
+      "units_sold_30d": 2511,
+      "rank": 2
+    },
+    {
+      "article_id": "0591068001",
+      "units_sold_30d": 1641,
+      "rank": 3
+    },
+    {
+      "article_id": "0594143001",
+      "units_sold_30d": 1213,
+      "rank": 4
+    },
+    {
+      "article_id": "0557994022",
+      "units_sold_30d": 960,
+      "rank": 5
+    },
+    {
+      "article_id": "0672092001",
+      "units_sold_30d": 792,
+      "rank": 6
+    }
+  ],
+  "Ladieswear::Dress": [
+    {
+      "article_id": "0717065002",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0750060001",
+      "units_sold_30d": 2511,
+      "rank": 2
+    },
+    {
+      "article_id": "0660497003",
+      "units_sold_30d": 1641,
+      "rank": 3
+    },
+    {
+      "article_id": "0807722001",
+      "units_sold_30d": 1213,
+      "rank": 4
+    },
+    {
+      "article_id": "0619175003",
+      "units_sold_30d": 960,
+      "rank": 5
+    },
+    {
+      "article_id": "0685429003",
+      "units_sold_30d": 792,
+      "rank": 6
+    },
+    {
+      "article_id": "0860882001",
+      "units_sold_30d": 674,
+      "rank": 7
+    },
+    {
+      "article_id": "0787237008",
+      "units_sold_30d": 586,
+      "rank": 8
+    },
+    {
+      "article_id": "0749393001",
+      "units_sold_30d": 518,
+      "rank": 9
+    },
+    {
+      "article_id": "0866457003",
+      "units_sold_30d": 463,
+      "rank": 10
+    },
+    {
+      "article_id": "0865000001",
+      "units_sold_30d": 419,
+      "rank": 11
+    },
+    {
+      "article_id": "0681246005",
+      "units_sold_30d": 383,
+      "rank": 12
+    },
+    {
+      "article_id": "0851947002",
+      "units_sold_30d": 352,
+      "rank": 13
+    },
+    {
+      "article_id": "0803996003",
+      "units_sold_30d": 326,
+      "rank": 14
+    },
+    {
+      "article_id": "0755869001",
+      "units_sold_30d": 303,
+      "rank": 15
+    },
+    {
+      "article_id": "0855915003",
+      "units_sold_30d": 283,
+      "rank": 16
+    },
+    {
+      "article_id": "0821731001",
+      "units_sold_30d": 265,
+      "rank": 17
+    },
+    {
+      "article_id": "0643166001",
+      "units_sold_30d": 250,
+      "rank": 18
+    },
+    {
+      "article_id": "0851947003",
+      "units_sold_30d": 236,
+      "rank": 19
+    },
+    {
+      "article_id": "0658287002",
+      "units_sold_30d": 224,
+      "rank": 20
+    },
+    {
+      "article_id": "0809798003",
+      "units_sold_30d": 213,
+      "rank": 21
+    },
+    {
+      "article_id": "0734435004",
+      "units_sold_30d": 203,
+      "rank": 22
+    },
+    {
+      "article_id": "0744180001",
+      "units_sold_30d": 193,
+      "rank": 23
+    },
+    {
+      "article_id": "0671438001",
+      "units_sold_30d": 185,
+      "rank": 24
+    }
+  ],
+  "Ladieswear::Gloves": [
+    {
+      "article_id": "0754751003",
+      "units_sold_30d": 5200,
+      "rank": 1
+    }
+  ],
+  "Ladieswear::Scarf": [
+    {
+      "article_id": "0772565022",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0757903019",
+      "units_sold_30d": 2511,
+      "rank": 2
+    },
+    {
+      "article_id": "0669506001",
+      "units_sold_30d": 1641,
+      "rank": 3
+    }
+  ],
+  "Ladieswear::Bag": [
+    {
+      "article_id": "0699292002",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0605718001",
+      "units_sold_30d": 2511,
+      "rank": 2
+    },
+    {
+      "article_id": "0639450003",
+      "units_sold_30d": 1641,
+      "rank": 3
+    }
+  ],
+  "Ladieswear::Earring": [
+    {
+      "article_id": "0880784002",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0770748002",
+      "units_sold_30d": 2511,
+      "rank": 2
+    }
+  ],
+  "Ladieswear::Bracelet": [
+    {
+      "article_id": "0693211001",
+      "units_sold_30d": 5200,
+      "rank": 1
+    }
+  ],
+  "Ladieswear::Hair/alice band": [
+    {
+      "article_id": "0517729093",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0669793001",
+      "units_sold_30d": 2511,
+      "rank": 2
+    }
+  ],
+  "Ladieswear::Hair clip": [
+    {
+      "article_id": "0929636001",
+      "units_sold_30d": 5200,
+      "rank": 1
+    }
+  ],
+  "Ladieswear::Blouse": [
+    {
+      "article_id": "0884319004",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0737630002",
+      "units_sold_30d": 2511,
+      "rank": 2
+    },
+    {
+      "article_id": "0892857003",
+      "units_sold_30d": 1641,
+      "rank": 3
+    }
+  ],
+  "Ladieswear::Shirt": [
+    {
+      "article_id": "0751592003",
+      "units_sold_30d": 5200,
+      "rank": 1
+    }
+  ],
+  "Ladieswear::Underwear bottom": [
+    {
+      "article_id": "0736780004",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0570319021",
+      "units_sold_30d": 2511,
+      "rank": 2
+    },
+    {
+      "article_id": "0729322007",
+      "units_sold_30d": 1641,
+      "rank": 3
+    },
+    {
+      "article_id": "0839450002",
+      "units_sold_30d": 1213,
+      "rank": 4
+    },
+    {
+      "article_id": "0573390007",
+      "units_sold_30d": 960,
+      "rank": 5
+    }
+  ],
+  "Ladieswear::Sweater": [
+    {
+      "article_id": "0816832004",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0819141001",
+      "units_sold_30d": 2511,
+      "rank": 2
+    },
+    {
+      "article_id": "0787948002",
+      "units_sold_30d": 1641,
+      "rank": 3
+    },
+    {
+      "article_id": "0903994002",
+      "units_sold_30d": 1213,
+      "rank": 4
+    },
+    {
+      "article_id": "0874754002",
+      "units_sold_30d": 960,
+      "rank": 5
+    },
+    {
+      "article_id": "0915529005",
+      "units_sold_30d": 792,
+      "rank": 6
+    },
+    {
+      "article_id": "0827370002",
+      "units_sold_30d": 674,
+      "rank": 7
+    },
+    {
+      "article_id": "0911870009",
+      "units_sold_30d": 586,
+      "rank": 8
+    },
+    {
+      "article_id": "0637515002",
+      "units_sold_30d": 518,
+      "rank": 9
+    },
+    {
+      "article_id": "0619138001",
+      "units_sold_30d": 463,
+      "rank": 10
+    }
+  ],
+  "Ladieswear::Cardigan": [
+    {
+      "article_id": "0732017005",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0825695003",
+      "units_sold_30d": 2511,
+      "rank": 2
+    },
+    {
+      "article_id": "0699554001",
+      "units_sold_30d": 1641,
+      "rank": 3
+    }
+  ],
+  "Ladieswear::Trousers": [
+    {
+      "article_id": "0573716046",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0562245061",
+      "units_sold_30d": 2511,
+      "rank": 2
+    },
+    {
+      "article_id": "0775599001",
+      "units_sold_30d": 1641,
+      "rank": 3
+    },
+    {
+      "article_id": "0668273001",
+      "units_sold_30d": 1213,
+      "rank": 4
+    },
+    {
+      "article_id": "0698387001",
+      "units_sold_30d": 960,
+      "rank": 5
+    },
+    {
+      "article_id": "0881244001",
+      "units_sold_30d": 792,
+      "rank": 6
+    },
+    {
+      "article_id": "0652924012",
+      "units_sold_30d": 674,
+      "rank": 7
+    },
+    {
+      "article_id": "0615130001",
+      "units_sold_30d": 586,
+      "rank": 8
+    },
+    {
+      "article_id": "0575542005",
+      "units_sold_30d": 518,
+      "rank": 9
+    },
+    {
+      "article_id": "0816490001",
+      "units_sold_30d": 463,
+      "rank": 10
+    },
+    {
+      "article_id": "0853721002",
+      "units_sold_30d": 419,
+      "rank": 11
+    },
+    {
+      "article_id": "0664456001",
+      "units_sold_30d": 383,
+      "rank": 12
+    },
+    {
+      "article_id": "0766299001",
+      "units_sold_30d": 352,
+      "rank": 13
+    },
+    {
+      "article_id": "0900227002",
+      "units_sold_30d": 326,
+      "rank": 14
+    },
+    {
+      "article_id": "0757552013",
+      "units_sold_30d": 303,
+      "rank": 15
+    },
+    {
+      "article_id": "0750347001",
+      "units_sold_30d": 283,
+      "rank": 16
+    },
+    {
+      "article_id": "0717845001",
+      "units_sold_30d": 265,
+      "rank": 17
+    }
+  ],
+  "Ladieswear::Sneakers": [
+    {
+      "article_id": "0673949002",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0806718002",
+      "units_sold_30d": 2511,
+      "rank": 2
+    },
+    {
+      "article_id": "0760748005",
+      "units_sold_30d": 1641,
+      "rank": 3
+    },
+    {
+      "article_id": "0806705001",
+      "units_sold_30d": 1213,
+      "rank": 4
+    }
+  ],
+  "Ladieswear::Heeled sandals": [
+    {
+      "article_id": "0723874003",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0752629001",
+      "units_sold_30d": 2511,
+      "rank": 2
+    }
+  ],
+  "Ladieswear::Sandals": [
+    {
+      "article_id": "0808662002",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0856332002",
+      "units_sold_30d": 2511,
+      "rank": 2
+    },
+    {
+      "article_id": "0721285001",
+      "units_sold_30d": 1641,
+      "rank": 3
+    }
+  ],
+  "Ladieswear::Ballerinas": [
+    {
+      "article_id": "0581359002",
+      "units_sold_30d": 5200,
+      "rank": 1
+    }
+  ],
+  "Ladieswear::Flat shoe": [
+    {
+      "article_id": "0717930003",
+      "units_sold_30d": 5200,
+      "rank": 1
+    }
+  ],
+  "Ladieswear::Swimwear bottom": [
+    {
+      "article_id": "0779725001",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0713200002",
+      "units_sold_30d": 2511,
+      "rank": 2
+    },
+    {
+      "article_id": "0739590017",
+      "units_sold_30d": 1641,
+      "rank": 3
+    },
+    {
+      "article_id": "0649690002",
+      "units_sold_30d": 1213,
+      "rank": 4
+    },
+    {
+      "article_id": "0607031009",
+      "units_sold_30d": 960,
+      "rank": 5
+    },
+    {
+      "article_id": "0823168006",
+      "units_sold_30d": 792,
+      "rank": 6
+    }
+  ],
+  "Ladieswear::Bikini top": [
+    {
+      "article_id": "0832527002",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0832298002",
+      "units_sold_30d": 2511,
+      "rank": 2
+    },
+    {
+      "article_id": "0742912001",
+      "units_sold_30d": 1641,
+      "rank": 3
+    }
+  ],
+  "Ladieswear::Swimsuit": [
+    {
+      "article_id": "0758141001",
+      "units_sold_30d": 5200,
+      "rank": 1
+    }
+  ],
+  "Ladieswear::Jacket": [
+    {
+      "article_id": "0399061007",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0654913001",
+      "units_sold_30d": 2511,
+      "rank": 2
+    },
+    {
+      "article_id": "0897089004",
+      "units_sold_30d": 1641,
+      "rank": 3
+    },
+    {
+      "article_id": "0659955001",
+      "units_sold_30d": 1213,
+      "rank": 4
+    },
+    {
+      "article_id": "0584927001",
+      "units_sold_30d": 960,
+      "rank": 5
+    },
+    {
+      "article_id": "0659462002",
+      "units_sold_30d": 792,
+      "rank": 6
+    },
+    {
+      "article_id": "0876822002",
+      "units_sold_30d": 674,
+      "rank": 7
+    },
+    {
+      "article_id": "0802556003",
+      "units_sold_30d": 586,
+      "rank": 8
+    },
+    {
+      "article_id": "0787052004",
+      "units_sold_30d": 518,
+      "rank": 9
+    },
+    {
+      "article_id": "0790006003",
+      "units_sold_30d": 463,
+      "rank": 10
+    }
+  ],
+  "Ladieswear::Coat": [
+    {
+      "article_id": "0789119002",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0798516001",
+      "units_sold_30d": 2511,
+      "rank": 2
+    }
+  ],
+  "Ladieswear::Socks": [
+    {
+      "article_id": "0714543001",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0807244032",
+      "units_sold_30d": 2511,
+      "rank": 2
+    },
+    {
+      "article_id": "0526865002",
+      "units_sold_30d": 1641,
+      "rank": 3
+    },
+    {
+      "article_id": "0715652002",
+      "units_sold_30d": 1213,
+      "rank": 4
+    },
+    {
+      "article_id": "0372860052",
+      "units_sold_30d": 960,
+      "rank": 5
+    },
+    {
+      "article_id": "0649000001",
+      "units_sold_30d": 792,
+      "rank": 6
+    }
+  ],
+  "Ladieswear::Underwear Tights": [
+    {
+      "article_id": "0910503006",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0671613001",
+      "units_sold_30d": 2511,
+      "rank": 2
+    },
+    {
+      "article_id": "0771716001",
+      "units_sold_30d": 1641,
+      "rank": 3
+    }
+  ],
+  "Ladieswear::Slippers": [
+    {
+      "article_id": "0784856005",
+      "units_sold_30d": 5200,
+      "rank": 1
+    }
+  ],
+  "Ladieswear::Blazer": [
+    {
+      "article_id": "0831918001",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0568601043",
+      "units_sold_30d": 2511,
+      "rank": 2
+    },
+    {
+      "article_id": "0778168002",
+      "units_sold_30d": 1641,
+      "rank": 3
+    },
+    {
+      "article_id": "0828049003",
+      "units_sold_30d": 1213,
+      "rank": 4
+    },
+    {
+      "article_id": "0864214001",
+      "units_sold_30d": 960,
+      "rank": 5
+    },
+    {
+      "article_id": "0641708001",
+      "units_sold_30d": 792,
+      "rank": 6
+    },
+    {
+      "article_id": "0816437002",
+      "units_sold_30d": 674,
+      "rank": 7
+    },
+    {
+      "article_id": "0832307007",
+      "units_sold_30d": 586,
+      "rank": 8
+    }
+  ],
+  "Ladieswear::Pumps": [
+    {
+      "article_id": "0742943001",
+      "units_sold_30d": 5200,
+      "rank": 1
+    }
+  ],
+  "Ladieswear::Shorts": [
+    {
+      "article_id": "0764998003",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0660188001",
+      "units_sold_30d": 2511,
+      "rank": 2
+    },
+    {
+      "article_id": "0752820001",
+      "units_sold_30d": 1641,
+      "rank": 3
+    },
+    {
+      "article_id": "0656763005",
+      "units_sold_30d": 1213,
+      "rank": 4
+    },
+    {
+      "article_id": "0792312001",
+      "units_sold_30d": 960,
+      "rank": 5
+    },
+    {
+      "article_id": "0734345001",
+      "units_sold_30d": 792,
+      "rank": 6
+    }
+  ],
+  "Menswear::T-shirt": [
+    {
+      "article_id": "0783543013",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0585503004",
+      "units_sold_30d": 2511,
+      "rank": 2
+    },
+    {
+      "article_id": "0630777003",
+      "units_sold_30d": 1641,
+      "rank": 3
+    },
+    {
+      "article_id": "0699923092",
+      "units_sold_30d": 1213,
+      "rank": 4
+    },
+    {
+      "article_id": "0699923042",
+      "units_sold_30d": 960,
+      "rank": 5
+    },
+    {
+      "article_id": "0757813004",
+      "units_sold_30d": 792,
+      "rank": 6
+    },
+    {
+      "article_id": "0842761005",
+      "units_sold_30d": 674,
+      "rank": 7
+    },
+    {
+      "article_id": "0598755045",
+      "units_sold_30d": 586,
+      "rank": 8
+    },
+    {
+      "article_id": "0584263001",
+      "units_sold_30d": 518,
+      "rank": 9
+    }
+  ],
+  "Menswear::Sweater": [
+    {
+      "article_id": "0569981006",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0483290004",
+      "units_sold_30d": 2511,
+      "rank": 2
+    },
+    {
+      "article_id": "0550386004",
+      "units_sold_30d": 1641,
+      "rank": 3
+    },
+    {
+      "article_id": "0533399001",
+      "units_sold_30d": 1213,
+      "rank": 4
+    },
+    {
+      "article_id": "0665287005",
+      "units_sold_30d": 960,
+      "rank": 5
+    },
+    {
+      "article_id": "0627404001",
+      "units_sold_30d": 792,
+      "rank": 6
+    },
+    {
+      "article_id": "0656059002",
+      "units_sold_30d": 674,
+      "rank": 7
+    },
+    {
+      "article_id": "0681934004",
+      "units_sold_30d": 586,
+      "rank": 8
+    },
+    {
+      "article_id": "0592304002",
+      "units_sold_30d": 518,
+      "rank": 9
+    },
+    {
+      "article_id": "0551044001",
+      "units_sold_30d": 463,
+      "rank": 10
+    },
+    {
+      "article_id": "0727808011",
+      "units_sold_30d": 419,
+      "rank": 11
+    },
+    {
+      "article_id": "0701283004",
+      "units_sold_30d": 383,
+      "rank": 12
+    },
+    {
+      "article_id": "0812599002",
+      "units_sold_30d": 352,
+      "rank": 13
+    },
+    {
+      "article_id": "0656491002",
+      "units_sold_30d": 326,
+      "rank": 14
+    }
+  ],
+  "Menswear::Polo shirt": [
+    {
+      "article_id": "0671599005",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0654410007",
+      "units_sold_30d": 2511,
+      "rank": 2
+    }
+  ],
+  "Menswear::Shorts": [
+    {
+      "article_id": "0850432004",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0900858001",
+      "units_sold_30d": 2511,
+      "rank": 2
+    },
+    {
+      "article_id": "0717196006",
+      "units_sold_30d": 1641,
+      "rank": 3
+    },
+    {
+      "article_id": "0849217005",
+      "units_sold_30d": 1213,
+      "rank": 4
+    },
+    {
+      "article_id": "0879096002",
+      "units_sold_30d": 960,
+      "rank": 5
+    },
+    {
+      "article_id": "0879307002",
+      "units_sold_30d": 792,
+      "rank": 6
+    },
+    {
+      "article_id": "0617249005",
+      "units_sold_30d": 674,
+      "rank": 7
+    },
+    {
+      "article_id": "0565292007",
+      "units_sold_30d": 586,
+      "rank": 8
+    },
+    {
+      "article_id": "0474471009",
+      "units_sold_30d": 518,
+      "rank": 9
+    },
+    {
+      "article_id": "0617249019",
+      "units_sold_30d": 463,
+      "rank": 10
+    },
+    {
+      "article_id": "0652146002",
+      "units_sold_30d": 419,
+      "rank": 11
+    },
+    {
+      "article_id": "0900858002",
+      "units_sold_30d": 383,
+      "rank": 12
+    },
+    {
+      "article_id": "0762287003",
+      "units_sold_30d": 352,
+      "rank": 13
+    },
+    {
+      "article_id": "0618360002",
+      "units_sold_30d": 326,
+      "rank": 14
+    }
+  ],
+  "Menswear::Shirt": [
+    {
+      "article_id": "0626385002",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0900860002",
+      "units_sold_30d": 2511,
+      "rank": 2
+    },
+    {
+      "article_id": "0784466001",
+      "units_sold_30d": 1641,
+      "rank": 3
+    },
+    {
+      "article_id": "0763712010",
+      "units_sold_30d": 1213,
+      "rank": 4
+    },
+    {
+      "article_id": "0805154001",
+      "units_sold_30d": 960,
+      "rank": 5
+    },
+    {
+      "article_id": "0634013018",
+      "units_sold_30d": 792,
+      "rank": 6
+    },
+    {
+      "article_id": "0539217008",
+      "units_sold_30d": 674,
+      "rank": 7
+    },
+    {
+      "article_id": "0821029001",
+      "units_sold_30d": 586,
+      "rank": 8
+    },
+    {
+      "article_id": "0667915001",
+      "units_sold_30d": 518,
+      "rank": 9
+    },
+    {
+      "article_id": "0737311002",
+      "units_sold_30d": 463,
+      "rank": 10
+    },
+    {
+      "article_id": "0818059005",
+      "units_sold_30d": 419,
+      "rank": 11
+    },
+    {
+      "article_id": "0547104005",
+      "units_sold_30d": 383,
+      "rank": 12
+    },
+    {
+      "article_id": "0573445001",
+      "units_sold_30d": 352,
+      "rank": 13
+    },
+    {
+      "article_id": "0615307004",
+      "units_sold_30d": 326,
+      "rank": 14
+    }
+  ],
+  "Menswear::Cap/peaked": [
+    {
+      "article_id": "0846713007",
+      "units_sold_30d": 5200,
+      "rank": 1
+    }
+  ],
+  "Menswear::Tie": [
+    {
+      "article_id": "0790518002",
+      "units_sold_30d": 5200,
+      "rank": 1
+    }
+  ],
+  "Menswear::Bag": [
+    {
+      "article_id": "0879567002",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0732873003",
+      "units_sold_30d": 2511,
+      "rank": 2
+    },
+    {
+      "article_id": "0615181002",
+      "units_sold_30d": 1641,
+      "rank": 3
+    }
+  ],
+  "Menswear::Hat/brim": [
+    {
+      "article_id": "0778458002",
+      "units_sold_30d": 5200,
+      "rank": 1
+    }
+  ],
+  "Menswear::Ring": [
+    {
+      "article_id": "0835557001",
+      "units_sold_30d": 5200,
+      "rank": 1
+    }
+  ],
+  "Menswear::Scarf": [
+    {
+      "article_id": "0760876008",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0681805002",
+      "units_sold_30d": 2511,
+      "rank": 2
+    },
+    {
+      "article_id": "0814319001",
+      "units_sold_30d": 1641,
+      "rank": 3
+    }
+  ],
+  "Menswear::Hat/beanie": [
+    {
+      "article_id": "0730889004",
+      "units_sold_30d": 5200,
+      "rank": 1
+    }
+  ],
+  "Menswear::Cardigan": [
+    {
+      "article_id": "0515136005",
+      "units_sold_30d": 5200,
+      "rank": 1
+    }
+  ],
+  "Menswear::Hoodie": [
+    {
+      "article_id": "0717995012",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0594121002",
+      "units_sold_30d": 2511,
+      "rank": 2
+    },
+    {
+      "article_id": "0685814063",
+      "units_sold_30d": 1641,
+      "rank": 3
+    },
+    {
+      "article_id": "0815092004",
+      "units_sold_30d": 1213,
+      "rank": 4
+    },
+    {
+      "article_id": "0557246005",
+      "units_sold_30d": 960,
+      "rank": 5
+    },
+    {
+      "article_id": "0762158005",
+      "units_sold_30d": 792,
+      "rank": 6
+    }
+  ],
+  "Menswear::Vest top": [
+    {
+      "article_id": "0879985002",
+      "units_sold_30d": 5200,
+      "rank": 1
+    }
+  ],
+  "Menswear::Trousers": [
+    {
+      "article_id": "0656749001",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0811784003",
+      "units_sold_30d": 2511,
+      "rank": 2
+    },
+    {
+      "article_id": "0650533001",
+      "units_sold_30d": 1641,
+      "rank": 3
+    },
+    {
+      "article_id": "0720810018",
+      "units_sold_30d": 1213,
+      "rank": 4
+    },
+    {
+      "article_id": "0753112002",
+      "units_sold_30d": 960,
+      "rank": 5
+    },
+    {
+      "article_id": "0798972004",
+      "units_sold_30d": 792,
+      "rank": 6
+    },
+    {
+      "article_id": "0796267001",
+      "units_sold_30d": 674,
+      "rank": 7
+    },
+    {
+      "article_id": "0825109002",
+      "units_sold_30d": 586,
+      "rank": 8
+    },
+    {
+      "article_id": "0716654008",
+      "units_sold_30d": 518,
+      "rank": 9
+    },
+    {
+      "article_id": "0842007001",
+      "units_sold_30d": 463,
+      "rank": 10
+    },
+    {
+      "article_id": "0716520001",
+      "units_sold_30d": 419,
+      "rank": 11
+    },
+    {
+      "article_id": "0825927004",
+      "units_sold_30d": 383,
+      "rank": 12
+    },
+    {
+      "article_id": "0612509008",
+      "units_sold_30d": 352,
+      "rank": 13
+    },
+    {
+      "article_id": "0730863039",
+      "units_sold_30d": 326,
+      "rank": 14
+    },
+    {
+      "article_id": "0730863018",
+      "units_sold_30d": 303,
+      "rank": 15
+    },
+    {
+      "article_id": "0807774003",
+      "units_sold_30d": 283,
+      "rank": 16
+    },
+    {
+      "article_id": "0800881003",
+      "units_sold_30d": 265,
+      "rank": 17
+    },
+    {
+      "article_id": "0832472001",
+      "units_sold_30d": 250,
+      "rank": 18
+    },
+    {
+      "article_id": "0688931001",
+      "units_sold_30d": 236,
+      "rank": 19
+    },
+    {
+      "article_id": "0796267002",
+      "units_sold_30d": 224,
+      "rank": 20
+    }
+  ],
+  "Menswear::Coat": [
+    {
+      "article_id": "0788172006",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0566542002",
+      "units_sold_30d": 2511,
+      "rank": 2
+    }
+  ],
+  "Menswear::Jacket": [
+    {
+      "article_id": "0797229002",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0599945019",
+      "units_sold_30d": 2511,
+      "rank": 2
+    },
+    {
+      "article_id": "0788170006",
+      "units_sold_30d": 1641,
+      "rank": 3
+    },
+    {
+      "article_id": "0643540002",
+      "units_sold_30d": 1213,
+      "rank": 4
+    },
+    {
+      "article_id": "0573042003",
+      "units_sold_30d": 960,
+      "rank": 5
+    },
+    {
+      "article_id": "0602673019",
+      "units_sold_30d": 792,
+      "rank": 6
+    },
+    {
+      "article_id": "0688326021",
+      "units_sold_30d": 674,
+      "rank": 7
+    }
+  ],
+  "Menswear::Sneakers": [
+    {
+      "article_id": "0645901002",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0533518005",
+      "units_sold_30d": 2511,
+      "rank": 2
+    },
+    {
+      "article_id": "0659146008",
+      "units_sold_30d": 1641,
+      "rank": 3
+    },
+    {
+      "article_id": "0601728023",
+      "units_sold_30d": 1213,
+      "rank": 4
+    },
+    {
+      "article_id": "0825056003",
+      "units_sold_30d": 960,
+      "rank": 5
+    },
+    {
+      "article_id": "0601769009",
+      "units_sold_30d": 792,
+      "rank": 6
+    },
+    {
+      "article_id": "0662310001",
+      "units_sold_30d": 674,
+      "rank": 7
+    },
+    {
+      "article_id": "0766093002",
+      "units_sold_30d": 586,
+      "rank": 8
+    }
+  ],
+  "Menswear::Flip flop": [
+    {
+      "article_id": "0643160003",
+      "units_sold_30d": 5200,
+      "rank": 1
+    }
+  ],
+  "Menswear::Other shoe": [
+    {
+      "article_id": "0856654002",
+      "units_sold_30d": 5200,
+      "rank": 1
+    }
+  ],
+  "Menswear::Underwear bottom": [
+    {
+      "article_id": "0564312035",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0767577033",
+      "units_sold_30d": 2511,
+      "rank": 2
+    },
+    {
+      "article_id": "0564309037",
+      "units_sold_30d": 1641,
+      "rank": 3
+    },
+    {
+      "article_id": "0749030003",
+      "units_sold_30d": 1213,
+      "rank": 4
+    },
+    {
+      "article_id": "0609256001",
+      "units_sold_30d": 960,
+      "rank": 5
+    },
+    {
+      "article_id": "0736385002",
+      "units_sold_30d": 792,
+      "rank": 6
+    },
+    {
+      "article_id": "0767577038",
+      "units_sold_30d": 674,
+      "rank": 7
+    },
+    {
+      "article_id": "0600663001",
+      "units_sold_30d": 586,
+      "rank": 8
+    },
+    {
+      "article_id": "0697920021",
+      "units_sold_30d": 518,
+      "rank": 9
+    }
+  ],
+  "Menswear::Pyjama bottom": [
+    {
+      "article_id": "0713380019",
+      "units_sold_30d": 5200,
+      "rank": 1
+    }
+  ],
+  "Menswear::Socks": [
+    {
+      "article_id": "0748365003",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0783707033",
+      "units_sold_30d": 2511,
+      "rank": 2
+    },
+    {
+      "article_id": "0584631059",
+      "units_sold_30d": 1641,
+      "rank": 3
+    },
+    {
+      "article_id": "0783707086",
+      "units_sold_30d": 1213,
+      "rank": 4
+    },
+    {
+      "article_id": "0783707159",
+      "units_sold_30d": 960,
+      "rank": 5
+    },
+    {
+      "article_id": "0783707036",
+      "units_sold_30d": 792,
+      "rank": 6
+    },
+    {
+      "article_id": "0706268039",
+      "units_sold_30d": 674,
+      "rank": 7
+    },
+    {
+      "article_id": "0783707097",
+      "units_sold_30d": 586,
+      "rank": 8
+    },
+    {
+      "article_id": "0896685001",
+      "units_sold_30d": 518,
+      "rank": 9
+    }
+  ],
+  "Menswear::Blazer": [
+    {
+      "article_id": "0575471001",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0783144006",
+      "units_sold_30d": 2511,
+      "rank": 2
+    },
+    {
+      "article_id": "0817763003",
+      "units_sold_30d": 1641,
+      "rank": 3
+    },
+    {
+      "article_id": "0867461003",
+      "units_sold_30d": 1213,
+      "rank": 4
+    },
+    {
+      "article_id": "0754933003",
+      "units_sold_30d": 960,
+      "rank": 5
+    },
+    {
+      "article_id": "0734194001",
+      "units_sold_30d": 792,
+      "rank": 6
+    },
+    {
+      "article_id": "0832469001",
+      "units_sold_30d": 674,
+      "rank": 7
+    },
+    {
+      "article_id": "0575460009",
+      "units_sold_30d": 586,
+      "rank": 8
+    },
+    {
+      "article_id": "0803256005",
+      "units_sold_30d": 518,
+      "rank": 9
+    }
+  ],
+  "Menswear::Swimwear bottom": [
+    {
+      "article_id": "0685601003",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0822861002",
+      "units_sold_30d": 2511,
+      "rank": 2
+    },
+    {
+      "article_id": "0685602014",
+      "units_sold_30d": 1641,
+      "rank": 3
+    },
+    {
+      "article_id": "0685604012",
+      "units_sold_30d": 1213,
+      "rank": 4
+    },
+    {
+      "article_id": "0685601007",
+      "units_sold_30d": 960,
+      "rank": 5
+    },
+    {
+      "article_id": "0568800027",
+      "units_sold_30d": 792,
+      "rank": 6
+    },
+    {
+      "article_id": "0685604083",
+      "units_sold_30d": 674,
+      "rank": 7
+    },
+    {
+      "article_id": "0685616009",
+      "units_sold_30d": 586,
+      "rank": 8
+    },
+    {
+      "article_id": "0685601036",
+      "units_sold_30d": 518,
+      "rank": 9
+    }
+  ],
+  "Menswear::Sunglasses": [
+    {
+      "article_id": "0900855001",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0900857002",
+      "units_sold_30d": 2511,
+      "rank": 2
+    }
+  ],
+  "Divided::Jumpsuit/Playsuit": [
+    {
+      "article_id": "0669327001",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0796571001",
+      "units_sold_30d": 2511,
+      "rank": 2
+    },
+    {
+      "article_id": "0637124004",
+      "units_sold_30d": 1641,
+      "rank": 3
+    },
+    {
+      "article_id": "0727615002",
+      "units_sold_30d": 1213,
+      "rank": 4
+    }
+  ],
+  "Divided::Dress": [
+    {
+      "article_id": "0637194001",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0571942001",
+      "units_sold_30d": 2511,
+      "rank": 2
+    },
+    {
+      "article_id": "0850985002",
+      "units_sold_30d": 1641,
+      "rank": 3
+    },
+    {
+      "article_id": "0860480001",
+      "units_sold_30d": 1213,
+      "rank": 4
+    },
+    {
+      "article_id": "0848359001",
+      "units_sold_30d": 960,
+      "rank": 5
+    }
+  ],
+  "Divided::Vest top": [
+    {
+      "article_id": "0584895003",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0865658002",
+      "units_sold_30d": 2511,
+      "rank": 2
+    },
+    {
+      "article_id": "0377277027",
+      "units_sold_30d": 1641,
+      "rank": 3
+    },
+    {
+      "article_id": "0588787001",
+      "units_sold_30d": 1213,
+      "rank": 4
+    },
+    {
+      "article_id": "0759871035",
+      "units_sold_30d": 960,
+      "rank": 5
+    },
+    {
+      "article_id": "0668213001",
+      "units_sold_30d": 792,
+      "rank": 6
+    },
+    {
+      "article_id": "0651882002",
+      "units_sold_30d": 674,
+      "rank": 7
+    }
+  ],
+  "Divided::Hoodie": [
+    {
+      "article_id": "0633136008",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0700946005",
+      "units_sold_30d": 2511,
+      "rank": 2
+    },
+    {
+      "article_id": "0791033007",
+      "units_sold_30d": 1641,
+      "rank": 3
+    }
+  ],
+  "Divided::Sweater": [
+    {
+      "article_id": "0752072006",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0784644001",
+      "units_sold_30d": 2511,
+      "rank": 2
+    },
+    {
+      "article_id": "0874113005",
+      "units_sold_30d": 1641,
+      "rank": 3
+    },
+    {
+      "article_id": "0677930016",
+      "units_sold_30d": 1213,
+      "rank": 4
+    },
+    {
+      "article_id": "0632665001",
+      "units_sold_30d": 960,
+      "rank": 5
+    },
+    {
+      "article_id": "0652246005",
+      "units_sold_30d": 792,
+      "rank": 6
+    },
+    {
+      "article_id": "0627407003",
+      "units_sold_30d": 674,
+      "rank": 7
+    },
+    {
+      "article_id": "0805772003",
+      "units_sold_30d": 586,
+      "rank": 8
+    },
+    {
+      "article_id": "0896162002",
+      "units_sold_30d": 518,
+      "rank": 9
+    },
+    {
+      "article_id": "0543169003",
+      "units_sold_30d": 463,
+      "rank": 10
+    }
+  ],
+  "Divided::T-shirt": [
+    {
+      "article_id": "0757871003",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0875329004",
+      "units_sold_30d": 2511,
+      "rank": 2
+    },
+    {
+      "article_id": "0761339003",
+      "units_sold_30d": 1641,
+      "rank": 3
+    }
+  ],
+  "Divided::Other accessories": [
+    {
+      "article_id": "0702368006",
+      "units_sold_30d": 5200,
+      "rank": 1
+    }
+  ],
+  "Divided::Bag": [
+    {
+      "article_id": "0635168015",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0538923001",
+      "units_sold_30d": 2511,
+      "rank": 2
+    },
+    {
+      "article_id": "0633153001",
+      "units_sold_30d": 1641,
+      "rank": 3
+    },
+    {
+      "article_id": "0782489005",
+      "units_sold_30d": 1213,
+      "rank": 4
+    }
+  ],
+  "Divided::Scarf": [
+    {
+      "article_id": "0780418007",
+      "units_sold_30d": 5200,
+      "rank": 1
+    }
+  ],
+  "Divided::Hair string": [
+    {
+      "article_id": "0683762002",
+      "units_sold_30d": 5200,
+      "rank": 1
+    }
+  ],
+  "Divided::Sunglasses": [
+    {
+      "article_id": "0696734002",
+      "units_sold_30d": 5200,
+      "rank": 1
+    }
+  ],
+  "Divided::Skirt": [
+    {
+      "article_id": "0854818004",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0882203001",
+      "units_sold_30d": 2511,
+      "rank": 2
+    },
+    {
+      "article_id": "0902481002",
+      "units_sold_30d": 1641,
+      "rank": 3
+    },
+    {
+      "article_id": "0730007001",
+      "units_sold_30d": 1213,
+      "rank": 4
+    },
+    {
+      "article_id": "0674888001",
+      "units_sold_30d": 960,
+      "rank": 5
+    },
+    {
+      "article_id": "0681915002",
+      "units_sold_30d": 792,
+      "rank": 6
+    },
+    {
+      "article_id": "0876785001",
+      "units_sold_30d": 674,
+      "rank": 7
+    },
+    {
+      "article_id": "0674606046",
+      "units_sold_30d": 586,
+      "rank": 8
+    },
+    {
+      "article_id": "0869379002",
+      "units_sold_30d": 518,
+      "rank": 9
+    }
+  ],
+  "Divided::Top": [
+    {
+      "article_id": "0662593002",
+      "units_sold_30d": 5200,
+      "rank": 1
+    }
+  ],
+  "Divided::Shirt": [
+    {
+      "article_id": "0870654002",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0817736009",
+      "units_sold_30d": 2511,
+      "rank": 2
+    },
+    {
+      "article_id": "0523990002",
+      "units_sold_30d": 1641,
+      "rank": 3
+    },
+    {
+      "article_id": "0677172007",
+      "units_sold_30d": 1213,
+      "rank": 4
+    },
+    {
+      "article_id": "0869162003",
+      "units_sold_30d": 960,
+      "rank": 5
+    }
+  ],
+  "Divided::Blouse": [
+    {
+      "article_id": "0794646001",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0630672001",
+      "units_sold_30d": 2511,
+      "rank": 2
+    }
+  ],
+  "Divided::Leggings/Tights": [
+    {
+      "article_id": "0582164001",
+      "units_sold_30d": 5200,
+      "rank": 1
+    }
+  ],
+  "Divided::Trousers": [
+    {
+      "article_id": "0885922001",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0763617005",
+      "units_sold_30d": 2511,
+      "rank": 2
+    },
+    {
+      "article_id": "0583699001",
+      "units_sold_30d": 1641,
+      "rank": 3
+    },
+    {
+      "article_id": "0824194003",
+      "units_sold_30d": 1213,
+      "rank": 4
+    },
+    {
+      "article_id": "0399223030",
+      "units_sold_30d": 960,
+      "rank": 5
+    },
+    {
+      "article_id": "0695899001",
+      "units_sold_30d": 792,
+      "rank": 6
+    },
+    {
+      "article_id": "0731160006",
+      "units_sold_30d": 674,
+      "rank": 7
+    },
+    {
+      "article_id": "0765739005",
+      "units_sold_30d": 586,
+      "rank": 8
+    },
+    {
+      "article_id": "0601595002",
+      "units_sold_30d": 518,
+      "rank": 9
+    },
+    {
+      "article_id": "0838340003",
+      "units_sold_30d": 463,
+      "rank": 10
+    },
+    {
+      "article_id": "0882899001",
+      "units_sold_30d": 419,
+      "rank": 11
+    }
+  ],
+  "Divided::Jacket": [
+    {
+      "article_id": "0755729001",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0868134003",
+      "units_sold_30d": 2511,
+      "rank": 2
+    },
+    {
+      "article_id": "0867994005",
+      "units_sold_30d": 1641,
+      "rank": 3
+    },
+    {
+      "article_id": "0785709001",
+      "units_sold_30d": 1213,
+      "rank": 4
+    }
+  ],
+  "Divided::Coat": [
+    {
+      "article_id": "0699618001",
+      "units_sold_30d": 5200,
+      "rank": 1
+    }
+  ],
+  "Divided::Outdoor Waistcoat": [
+    {
+      "article_id": "0870989002",
+      "units_sold_30d": 5200,
+      "rank": 1
+    }
+  ],
+  "Divided::Underwear bottom": [
+    {
+      "article_id": "0632020002",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0644944002",
+      "units_sold_30d": 2511,
+      "rank": 2
+    },
+    {
+      "article_id": "0875635002",
+      "units_sold_30d": 1641,
+      "rank": 3
+    },
+    {
+      "article_id": "0619280008",
+      "units_sold_30d": 1213,
+      "rank": 4
+    }
+  ],
+  "Divided::Socks": [
+    {
+      "article_id": "0716590012",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0654436003",
+      "units_sold_30d": 2511,
+      "rank": 2
+    }
+  ],
+  "Divided::Sneakers": [
+    {
+      "article_id": "0563113002",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0212042036",
+      "units_sold_30d": 2511,
+      "rank": 2
+    },
+    {
+      "article_id": "0522045004",
+      "units_sold_30d": 1641,
+      "rank": 3
+    },
+    {
+      "article_id": "0563113003",
+      "units_sold_30d": 1213,
+      "rank": 4
+    }
+  ],
+  "Divided::Boots": [
+    {
+      "article_id": "0658495003",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0622963002",
+      "units_sold_30d": 2511,
+      "rank": 2
+    }
+  ],
+  "Divided::Shorts": [
+    {
+      "article_id": "0617645002",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0740427001",
+      "units_sold_30d": 2511,
+      "rank": 2
+    },
+    {
+      "article_id": "0612296003",
+      "units_sold_30d": 1641,
+      "rank": 3
+    },
+    {
+      "article_id": "0865624006",
+      "units_sold_30d": 1213,
+      "rank": 4
+    },
+    {
+      "article_id": "0860411005",
+      "units_sold_30d": 960,
+      "rank": 5
+    },
+    {
+      "article_id": "0824340004",
+      "units_sold_30d": 792,
+      "rank": 6
+    }
+  ],
+  "Divided::Hair/alice band": [
+    {
+      "article_id": "0697312001",
+      "units_sold_30d": 5200,
+      "rank": 1
+    }
+  ],
+  "Divided::Bodysuit": [
+    {
+      "article_id": "0720750002",
+      "units_sold_30d": 5200,
+      "rank": 1
+    }
+  ],
+  "Divided::Bikini top": [
+    {
+      "article_id": "0701078008",
+      "units_sold_30d": 5200,
+      "rank": 1
+    }
+  ],
+  "Divided::Swimwear bottom": [
+    {
+      "article_id": "0660927001",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0843811003",
+      "units_sold_30d": 2511,
+      "rank": 2
+    },
+    {
+      "article_id": "0880777003",
+      "units_sold_30d": 1641,
+      "rank": 3
+    },
+    {
+      "article_id": "0660924001",
+      "units_sold_30d": 1213,
+      "rank": 4
+    }
+  ],
+  "Baby/Children::T-shirt": [
+    {
+      "article_id": "0918308001",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0875836004",
+      "units_sold_30d": 2511,
+      "rank": 2
+    },
+    {
+      "article_id": "0759009002",
+      "units_sold_30d": 1641,
+      "rank": 3
+    },
+    {
+      "article_id": "0676754002",
+      "units_sold_30d": 1213,
+      "rank": 4
+    }
+  ],
+  "Baby/Children::Sweater": [
+    {
+      "article_id": "0764758005",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0628499014",
+      "units_sold_30d": 2511,
+      "rank": 2
+    },
+    {
+      "article_id": "0699068008",
+      "units_sold_30d": 1641,
+      "rank": 3
+    },
+    {
+      "article_id": "0675721004",
+      "units_sold_30d": 1213,
+      "rank": 4
+    },
+    {
+      "article_id": "0842894001",
+      "units_sold_30d": 960,
+      "rank": 5
+    },
+    {
+      "article_id": "0890260001",
+      "units_sold_30d": 792,
+      "rank": 6
+    },
+    {
+      "article_id": "0610379001",
+      "units_sold_30d": 674,
+      "rank": 7
+    },
+    {
+      "article_id": "0791484011",
+      "units_sold_30d": 586,
+      "rank": 8
+    }
+  ],
+  "Baby/Children::Garment Set": [
+    {
+      "article_id": "0757832008",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0761920007",
+      "units_sold_30d": 2511,
+      "rank": 2
+    }
+  ],
+  "Baby/Children::Jumpsuit/Playsuit": [
+    {
+      "article_id": "0841034001",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0806073001",
+      "units_sold_30d": 2511,
+      "rank": 2
+    }
+  ],
+  "Baby/Children::Shirt": [
+    {
+      "article_id": "0632376002",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0757017005",
+      "units_sold_30d": 2511,
+      "rank": 2
+    },
+    {
+      "article_id": "0879991001",
+      "units_sold_30d": 1641,
+      "rank": 3
+    },
+    {
+      "article_id": "0718203003",
+      "units_sold_30d": 1213,
+      "rank": 4
+    },
+    {
+      "article_id": "0611838002",
+      "units_sold_30d": 960,
+      "rank": 5
+    },
+    {
+      "article_id": "0780824002",
+      "units_sold_30d": 792,
+      "rank": 6
+    },
+    {
+      "article_id": "0749664002",
+      "units_sold_30d": 674,
+      "rank": 7
+    }
+  ],
+  "Baby/Children::Hoodie": [
+    {
+      "article_id": "0508932015",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0541308025",
+      "units_sold_30d": 2511,
+      "rank": 2
+    }
+  ],
+  "Baby/Children::Leggings/Tights": [
+    {
+      "article_id": "0734501002",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0637538003",
+      "units_sold_30d": 2511,
+      "rank": 2
+    }
+  ],
+  "Baby/Children::Trousers": [
+    {
+      "article_id": "0859545001",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0823458001",
+      "units_sold_30d": 2511,
+      "rank": 2
+    },
+    {
+      "article_id": "0820526007",
+      "units_sold_30d": 1641,
+      "rank": 3
+    },
+    {
+      "article_id": "0698437004",
+      "units_sold_30d": 1213,
+      "rank": 4
+    },
+    {
+      "article_id": "0624691001",
+      "units_sold_30d": 960,
+      "rank": 5
+    },
+    {
+      "article_id": "0869561002",
+      "units_sold_30d": 792,
+      "rank": 6
+    },
+    {
+      "article_id": "0559129019",
+      "units_sold_30d": 674,
+      "rank": 7
+    },
+    {
+      "article_id": "0626568008",
+      "units_sold_30d": 586,
+      "rank": 8
+    },
+    {
+      "article_id": "0666083001",
+      "units_sold_30d": 518,
+      "rank": 9
+    },
+    {
+      "article_id": "0838721003",
+      "units_sold_30d": 463,
+      "rank": 10
+    },
+    {
+      "article_id": "0803160003",
+      "units_sold_30d": 419,
+      "rank": 11
+    },
+    {
+      "article_id": "0705244002",
+      "units_sold_30d": 383,
+      "rank": 12
+    }
+  ],
+  "Baby/Children::Cap/peaked": [
+    {
+      "article_id": "0852849002",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0831943004",
+      "units_sold_30d": 2511,
+      "rank": 2
+    },
+    {
+      "article_id": "0734553001",
+      "units_sold_30d": 1641,
+      "rank": 3
+    }
+  ],
+  "Baby/Children::Bodysuit": [
+    {
+      "article_id": "0855575001",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0737023003",
+      "units_sold_30d": 2511,
+      "rank": 2
+    }
+  ],
+  "Baby/Children::Bag": [
+    {
+      "article_id": "0783152001",
+      "units_sold_30d": 5200,
+      "rank": 1
+    }
+  ],
+  "Baby/Children::Gloves": [
+    {
+      "article_id": "0629676001",
+      "units_sold_30d": 5200,
+      "rank": 1
+    }
+  ],
+  "Baby/Children::Other accessories": [
+    {
+      "article_id": "0878300002",
+      "units_sold_30d": 5200,
+      "rank": 1
+    }
+  ],
+  "Baby/Children::Hat/beanie": [
+    {
+      "article_id": "0905834001",
+      "units_sold_30d": 5200,
+      "rank": 1
+    }
+  ],
+  "Baby/Children::Sneakers": [
+    {
+      "article_id": "0861574004",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0702194004",
+      "units_sold_30d": 2511,
+      "rank": 2
+    }
+  ],
+  "Baby/Children::Boots": [
+    {
+      "article_id": "0738745001",
+      "units_sold_30d": 5200,
+      "rank": 1
+    }
+  ],
+  "Baby/Children::Flip flop": [
+    {
+      "article_id": "0584115001",
+      "units_sold_30d": 5200,
+      "rank": 1
+    }
+  ],
+  "Baby/Children::Sandals": [
+    {
+      "article_id": "0751987001",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0745275001",
+      "units_sold_30d": 2511,
+      "rank": 2
+    }
+  ],
+  "Baby/Children::Slippers": [
+    {
+      "article_id": "0657367002",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0669627001",
+      "units_sold_30d": 2511,
+      "rank": 2
+    }
+  ],
+  "Baby/Children::Pyjama set": [
+    {
+      "article_id": "0485552004",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0485537031",
+      "units_sold_30d": 2511,
+      "rank": 2
+    },
+    {
+      "article_id": "0706465002",
+      "units_sold_30d": 1641,
+      "rank": 3
+    },
+    {
+      "article_id": "0485554005",
+      "units_sold_30d": 1213,
+      "rank": 4
+    }
+  ],
+  "Baby/Children::Underwear bottom": [
+    {
+      "article_id": "0713824050",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0718731009",
+      "units_sold_30d": 2511,
+      "rank": 2
+    }
+  ],
+  "Baby/Children::Pyjama jumpsuit/playsuit": [
+    {
+      "article_id": "0550471026",
+      "units_sold_30d": 5200,
+      "rank": 1
+    }
+  ],
+  "Baby/Children::Cardigan": [
+    {
+      "article_id": "0764596001",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0675516003",
+      "units_sold_30d": 2511,
+      "rank": 2
+    },
+    {
+      "article_id": "0884901004",
+      "units_sold_30d": 1641,
+      "rank": 3
+    }
+  ],
+  "Baby/Children::Dress": [
+    {
+      "article_id": "0850792001",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0814091005",
+      "units_sold_30d": 2511,
+      "rank": 2
+    },
+    {
+      "article_id": "0685244003",
+      "units_sold_30d": 1641,
+      "rank": 3
+    },
+    {
+      "article_id": "0623276002",
+      "units_sold_30d": 1213,
+      "rank": 4
+    },
+    {
+      "article_id": "0777669004",
+      "units_sold_30d": 960,
+      "rank": 5
+    },
+    {
+      "article_id": "0686985001",
+      "units_sold_30d": 792,
+      "rank": 6
+    }
+  ],
+  "Baby/Children::Jacket": [
+    {
+      "article_id": "0702837001",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0838325001",
+      "units_sold_30d": 2511,
+      "rank": 2
+    },
+    {
+      "article_id": "0734917003",
+      "units_sold_30d": 1641,
+      "rank": 3
+    },
+    {
+      "article_id": "0627762009",
+      "units_sold_30d": 1213,
+      "rank": 4
+    },
+    {
+      "article_id": "0872135002",
+      "units_sold_30d": 960,
+      "rank": 5
+    },
+    {
+      "article_id": "0873117001",
+      "units_sold_30d": 792,
+      "rank": 6
+    }
+  ],
+  "Baby/Children::Outdoor trousers": [
+    {
+      "article_id": "0625176004",
+      "units_sold_30d": 5200,
+      "rank": 1
+    }
+  ],
+  "Baby/Children::Shorts": [
+    {
+      "article_id": "0817852003",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0627395006",
+      "units_sold_30d": 2511,
+      "rank": 2
+    },
+    {
+      "article_id": "0640162004",
+      "units_sold_30d": 1641,
+      "rank": 3
+    },
+    {
+      "article_id": "0832492002",
+      "units_sold_30d": 1213,
+      "rank": 4
+    },
+    {
+      "article_id": "0692834007",
+      "units_sold_30d": 960,
+      "rank": 5
+    },
+    {
+      "article_id": "0806348001",
+      "units_sold_30d": 792,
+      "rank": 6
+    },
+    {
+      "article_id": "0893955001",
+      "units_sold_30d": 674,
+      "rank": 7
+    },
+    {
+      "article_id": "0797312001",
+      "units_sold_30d": 586,
+      "rank": 8
+    },
+    {
+      "article_id": "0732374004",
+      "units_sold_30d": 518,
+      "rank": 9
+    }
+  ],
+  "Baby/Children::Skirt": [
+    {
+      "article_id": "0850797004",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0850795002",
+      "units_sold_30d": 2511,
+      "rank": 2
+    }
+  ],
+  "Baby/Children::Underwear Tights": [
+    {
+      "article_id": "0682618001",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0695909007",
+      "units_sold_30d": 2511,
+      "rank": 2
+    }
+  ],
+  "Baby/Children::Socks": [
+    {
+      "article_id": "0863250018",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0860696010",
+      "units_sold_30d": 2511,
+      "rank": 2
+    }
+  ],
+  "Baby/Children::Blazer": [
+    {
+      "article_id": "0595979004",
+      "units_sold_30d": 5200,
+      "rank": 1
+    }
+  ],
+  "Baby/Children::Swimsuit": [
+    {
+      "article_id": "0837804001",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0711162001",
+      "units_sold_30d": 2511,
+      "rank": 2
+    },
+    {
+      "article_id": "0640995001",
+      "units_sold_30d": 1641,
+      "rank": 3
+    }
+  ],
+  "Baby/Children::Swimwear set": [
+    {
+      "article_id": "0840512002",
+      "units_sold_30d": 5200,
+      "rank": 1
+    }
+  ],
+  "Baby/Children::Swimwear top": [
+    {
+      "article_id": "0563601001",
+      "units_sold_30d": 5200,
+      "rank": 1
+    }
+  ],
+  "Sport::Sweater": [
+    {
+      "article_id": "0885803005",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0831739001",
+      "units_sold_30d": 2511,
+      "rank": 2
+    },
+    {
+      "article_id": "0789921003",
+      "units_sold_30d": 1641,
+      "rank": 3
+    }
+  ],
+  "Sport::Trousers": [
+    {
+      "article_id": "0696125005",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0501921001",
+      "units_sold_30d": 2511,
+      "rank": 2
+    },
+    {
+      "article_id": "0533406020",
+      "units_sold_30d": 1641,
+      "rank": 3
+    },
+    {
+      "article_id": "0710628001",
+      "units_sold_30d": 1213,
+      "rank": 4
+    },
+    {
+      "article_id": "0736102005",
+      "units_sold_30d": 960,
+      "rank": 5
+    }
+  ],
+  "Sport::T-shirt": [
+    {
+      "article_id": "0749400010",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0653275020",
+      "units_sold_30d": 2511,
+      "rank": 2
+    },
+    {
+      "article_id": "0739265002",
+      "units_sold_30d": 1641,
+      "rank": 3
+    },
+    {
+      "article_id": "0493425007",
+      "units_sold_30d": 1213,
+      "rank": 4
+    },
+    {
+      "article_id": "0609483005",
+      "units_sold_30d": 960,
+      "rank": 5
+    },
+    {
+      "article_id": "0653275024",
+      "units_sold_30d": 792,
+      "rank": 6
+    },
+    {
+      "article_id": "0740902006",
+      "units_sold_30d": 674,
+      "rank": 7
+    },
+    {
+      "article_id": "0882817004",
+      "units_sold_30d": 586,
+      "rank": 8
+    },
+    {
+      "article_id": "0609483018",
+      "units_sold_30d": 518,
+      "rank": 9
+    },
+    {
+      "article_id": "0609483003",
+      "units_sold_30d": 463,
+      "rank": 10
+    }
+  ],
+  "Sport::Hoodie": [
+    {
+      "article_id": "0789263001",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0609485016",
+      "units_sold_30d": 2511,
+      "rank": 2
+    },
+    {
+      "article_id": "0600274010",
+      "units_sold_30d": 1641,
+      "rank": 3
+    },
+    {
+      "article_id": "0862105009",
+      "units_sold_30d": 1213,
+      "rank": 4
+    },
+    {
+      "article_id": "0740412011",
+      "units_sold_30d": 960,
+      "rank": 5
+    },
+    {
+      "article_id": "0533404004",
+      "units_sold_30d": 792,
+      "rank": 6
+    },
+    {
+      "article_id": "0600274007",
+      "units_sold_30d": 674,
+      "rank": 7
+    }
+  ],
+  "Sport::Leggings/Tights": [
+    {
+      "article_id": "0840203001",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0630116010",
+      "units_sold_30d": 2511,
+      "rank": 2
+    },
+    {
+      "article_id": "0740498004",
+      "units_sold_30d": 1641,
+      "rank": 3
+    },
+    {
+      "article_id": "0866731002",
+      "units_sold_30d": 1213,
+      "rank": 4
+    },
+    {
+      "article_id": "0748566003",
+      "units_sold_30d": 960,
+      "rank": 5
+    }
+  ],
+  "Sport::Vest top": [
+    {
+      "article_id": "0704119004",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0531665004",
+      "units_sold_30d": 2511,
+      "rank": 2
+    },
+    {
+      "article_id": "0678692007",
+      "units_sold_30d": 1641,
+      "rank": 3
+    },
+    {
+      "article_id": "0541569001",
+      "units_sold_30d": 1213,
+      "rank": 4
+    },
+    {
+      "article_id": "0634009002",
+      "units_sold_30d": 960,
+      "rank": 5
+    }
+  ],
+  "Sport::Bra": [
+    {
+      "article_id": "0851774002",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0854043004",
+      "units_sold_30d": 2511,
+      "rank": 2
+    },
+    {
+      "article_id": "0623278001",
+      "units_sold_30d": 1641,
+      "rank": 3
+    }
+  ],
+  "Sport::Shorts": [
+    {
+      "article_id": "0853881002",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0718133003",
+      "units_sold_30d": 2511,
+      "rank": 2
+    },
+    {
+      "article_id": "0881648001",
+      "units_sold_30d": 1641,
+      "rank": 3
+    }
+  ],
+  "Sport::Top": [
+    {
+      "article_id": "0851374004",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0740412005",
+      "units_sold_30d": 2511,
+      "rank": 2
+    }
+  ],
+  "Sport::Socks": [
+    {
+      "article_id": "0861851001",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0868654002",
+      "units_sold_30d": 2511,
+      "rank": 2
+    },
+    {
+      "article_id": "0738815008",
+      "units_sold_30d": 1641,
+      "rank": 3
+    },
+    {
+      "article_id": "0695450002",
+      "units_sold_30d": 1213,
+      "rank": 4
+    },
+    {
+      "article_id": "0661560002",
+      "units_sold_30d": 960,
+      "rank": 5
+    },
+    {
+      "article_id": "0611030003",
+      "units_sold_30d": 792,
+      "rank": 6
+    },
+    {
+      "article_id": "0861851003",
+      "units_sold_30d": 674,
+      "rank": 7
+    },
+    {
+      "article_id": "0697639001",
+      "units_sold_30d": 586,
+      "rank": 8
+    },
+    {
+      "article_id": "0855216003",
+      "units_sold_30d": 518,
+      "rank": 9
+    },
+    {
+      "article_id": "0740610004",
+      "units_sold_30d": 463,
+      "rank": 10
+    }
+  ],
+  "Sport::Hair string": [
+    {
+      "article_id": "0558402004",
+      "units_sold_30d": 5200,
+      "rank": 1
+    }
+  ],
+  "Sport::Other accessories": [
+    {
+      "article_id": "0887668001",
+      "units_sold_30d": 5200,
+      "rank": 1
+    }
+  ],
+  "Sport::Swimwear bottom": [
+    {
+      "article_id": "0747786003",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0600932002",
+      "units_sold_30d": 2511,
+      "rank": 2
+    }
+  ],
+  "Sport::Swimsuit": [
+    {
+      "article_id": "0806974001",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0715550002",
+      "units_sold_30d": 2511,
+      "rank": 2
+    }
+  ],
+  "Sport::Bag": [
+    {
+      "article_id": "0878601001",
+      "units_sold_30d": 5200,
+      "rank": 1
+    }
+  ],
+  "Sport::Bikini top": [
+    {
+      "article_id": "0806965001",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0576692003",
+      "units_sold_30d": 2511,
+      "rank": 2
+    }
+  ],
+  "Sport::Waterbottle": [
+    {
+      "article_id": "0685471001",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0576676001",
+      "units_sold_30d": 2511,
+      "rank": 2
+    },
+    {
+      "article_id": "0633929001",
+      "units_sold_30d": 1641,
+      "rank": 3
+    }
+  ],
+  "Sport::Jacket": [
+    {
+      "article_id": "0931300001",
+      "units_sold_30d": 5200,
+      "rank": 1
+    },
+    {
+      "article_id": "0679954005",
+      "units_sold_30d": 2511,
+      "rank": 2
+    },
+    {
+      "article_id": "0548059003",
+      "units_sold_30d": 1641,
+      "rank": 3
+    },
+    {
+      "article_id": "0641843006",
+      "units_sold_30d": 1213,
+      "rank": 4
+    },
+    {
+      "article_id": "0543548002",
+      "units_sold_30d": 960,
+      "rank": 5
+    }
+  ]
+}

@@ -1,0 +1,535 @@
+[
+  {
+    "shopper_id": "0001",
+    "display_name": "Ana",
+    "demographics": {
+      "age_band": "25-34",
+      "gender_presentation": "feminine",
+      "location": {
+        "climate": "temperate"
+      }
+    },
+    "declared": {
+      "sizes": {
+        "top": "M",
+        "bottom": "28",
+        "shoe": "8"
+      },
+      "style_archetypes": [
+        "classic",
+        "minimalist"
+      ],
+      "value_priorities": {
+        "quality": 1,
+        "comfort": 2,
+        "sustainability": 3,
+        "price": 4,
+        "trend": 5
+      }
+    },
+    "purchase_history": {
+      "orders": [
+        {
+          "article_ids": [
+            "0900227002",
+            "0816437002"
+          ]
+        },
+        {
+          "article_ids": [
+            "0787237008",
+            "0652924012"
+          ]
+        },
+        {
+          "article_ids": [
+            "0659462002",
+            "0717930003"
+          ]
+        },
+        {
+          "article_ids": [
+            "0639838012",
+            "0884319004"
+          ]
+        },
+        {
+          "article_ids": [
+            "0798516001",
+            "0637515002"
+          ]
+        },
+        {
+          "article_ids": [
+            "0876822002",
+            "0717845001"
+          ]
+        },
+        {
+          "article_ids": [
+            "0752629001",
+            "0736319001"
+          ]
+        },
+        {
+          "article_ids": [
+            "0851947003",
+            "0806718002"
+          ]
+        }
+      ],
+      "aggregates": {
+        "total_items_purchased": 16,
+        "last_order_at": "2026-04-30T00:00:00",
+        "return_rate": 0.0
+      }
+    },
+    "browse_history": {
+      "wishlist": [
+        {
+          "article_id": "0897089004",
+          "added_at": "2025-12-15T00:00:00",
+          "price_at_add": 78.99,
+          "stock_at_add_in_my_size": 38
+        },
+        {
+          "article_id": "0816490001",
+          "added_at": "2026-02-07T00:00:00",
+          "price_at_add": 41.99,
+          "stock_at_add_in_my_size": 35
+        },
+        {
+          "article_id": "0732017005",
+          "added_at": "2026-04-11T00:00:00",
+          "price_at_add": 35.99,
+          "stock_at_add_in_my_size": 44
+        },
+        {
+          "article_id": "0789119002",
+          "added_at": "2026-02-03T00:00:00",
+          "price_at_add": 50.99,
+          "stock_at_add_in_my_size": 34
+        }
+      ]
+    },
+    "segments": [
+      "repeat_buyer",
+      "low_returner",
+      "newsletter_engaged"
+    ],
+    "affinities": {
+      "index_groups": {
+        "Ladieswear": 1.0
+      },
+      "price_band": {
+        "p25": 31.99,
+        "median": 39.99,
+        "p75": 51.99
+      }
+    }
+  },
+  {
+    "shopper_id": "0002",
+    "display_name": "Marcus",
+    "demographics": {
+      "age_band": "18-24",
+      "gender_presentation": "masculine",
+      "location": {
+        "climate": "temperate"
+      }
+    },
+    "declared": {
+      "sizes": {
+        "top": "L",
+        "bottom": "32",
+        "shoe": "10"
+      },
+      "style_archetypes": [
+        "streetwear",
+        "trend"
+      ],
+      "value_priorities": {
+        "trend": 1,
+        "price": 2,
+        "comfort": 3,
+        "quality": 4,
+        "sustainability": 5
+      }
+    },
+    "purchase_history": {
+      "orders": [
+        {
+          "article_ids": [
+            "0783543013"
+          ]
+        },
+        {
+          "article_ids": [
+            "0902481002"
+          ]
+        },
+        {
+          "article_ids": [
+            "0662310001",
+            "0685604012"
+          ]
+        }
+      ],
+      "aggregates": {
+        "total_items_purchased": 4,
+        "last_order_at": "2026-03-13T00:00:00",
+        "return_rate": 0.0
+      }
+    },
+    "browse_history": {
+      "wishlist": []
+    },
+    "segments": [
+      "browse_heavy",
+      "low_purchase_intent_q1",
+      "social_referral"
+    ],
+    "affinities": {
+      "index_groups": {
+        "Menswear": 0.738,
+        "Divided": 0.262
+      },
+      "price_band": {
+        "p25": 12.99,
+        "median": 29.99,
+        "p75": 42.99
+      }
+    }
+  },
+  {
+    "shopper_id": "0003",
+    "display_name": "Priya",
+    "demographics": {
+      "age_band": "35-44",
+      "gender_presentation": "feminine",
+      "location": {
+        "climate": "hot"
+      }
+    },
+    "declared": {
+      "sizes": {
+        "top": "S",
+        "bottom": "26",
+        "shoe": "7"
+      },
+      "style_archetypes": [
+        "athleisure",
+        "minimalist"
+      ],
+      "value_priorities": {
+        "price": 1,
+        "quality": 2,
+        "comfort": 3,
+        "sustainability": 4,
+        "trend": 5
+      },
+      "material_avoid": [
+        "wool"
+      ]
+    },
+    "purchase_history": {
+      "orders": [
+        {
+          "article_ids": [
+            "0611838002",
+            "0737023003"
+          ]
+        },
+        {
+          "article_ids": [
+            "0757832008",
+            "0850797004"
+          ]
+        },
+        {
+          "article_ids": [
+            "0869561002",
+            "0718731009"
+          ]
+        },
+        {
+          "article_ids": [
+            "0918308001",
+            "0550471026"
+          ]
+        },
+        {
+          "article_ids": [
+            "0660497003",
+            "0763057004"
+          ]
+        },
+        {
+          "article_ids": [
+            "0699292002",
+            "0721135003"
+          ]
+        }
+      ],
+      "aggregates": {
+        "total_items_purchased": 12,
+        "last_order_at": "2026-05-04T00:00:00",
+        "return_rate": 0.17
+      }
+    },
+    "browse_history": {
+      "wishlist": [
+        {
+          "article_id": "0508932015",
+          "added_at": "2025-12-09T00:00:00",
+          "price_at_add": 6.99,
+          "stock_at_add_in_my_size": 40
+        },
+        {
+          "article_id": "0820526007",
+          "added_at": "2025-12-08T00:00:00",
+          "price_at_add": 9.99,
+          "stock_at_add_in_my_size": 45
+        },
+        {
+          "article_id": "0637538003",
+          "added_at": "2026-03-14T00:00:00",
+          "price_at_add": 6.99,
+          "stock_at_add_in_my_size": 30
+        }
+      ]
+    },
+    "segments": [
+      "new_parent",
+      "returns_high",
+      "multi_shopper_household"
+    ],
+    "affinities": {
+      "index_groups": {
+        "Baby/Children": 0.636,
+        "Ladieswear": 0.364
+      },
+      "price_band": {
+        "p25": 11.99,
+        "median": 20.99,
+        "p75": 25.99
+      }
+    }
+  },
+  {
+    "shopper_id": "0004",
+    "display_name": "Diego",
+    "demographics": {
+      "age_band": "35-44",
+      "gender_presentation": "masculine",
+      "location": {
+        "climate": "cold"
+      }
+    },
+    "declared": {
+      "sizes": {
+        "top": "L",
+        "bottom": "34",
+        "shoe": "11"
+      },
+      "style_archetypes": [
+        "athleisure",
+        "classic"
+      ],
+      "value_priorities": {
+        "comfort": 1,
+        "quality": 2,
+        "price": 3,
+        "sustainability": 4,
+        "trend": 5
+      }
+    },
+    "purchase_history": {
+      "orders": [
+        {
+          "article_ids": [
+            "0573042003",
+            "0531665004"
+          ]
+        },
+        {
+          "article_ids": [
+            "0783543013",
+            "0807774003"
+          ]
+        },
+        {
+          "article_ids": [
+            "0533518005",
+            "0699923042"
+          ]
+        },
+        {
+          "article_ids": [
+            "0665287005",
+            "0688326021"
+          ]
+        },
+        {
+          "article_ids": [
+            "0515136005",
+            "0652146002"
+          ]
+        }
+      ],
+      "aggregates": {
+        "total_items_purchased": 10,
+        "last_order_at": "2026-04-22T00:00:00",
+        "return_rate": 0.0
+      }
+    },
+    "browse_history": {
+      "wishlist": [
+        {
+          "article_id": "0710628001",
+          "added_at": "2026-01-03T00:00:00",
+          "price_at_add": 87.99,
+          "stock_at_add_in_my_size": 15
+        },
+        {
+          "article_id": "0609483003",
+          "added_at": "2026-02-21T00:00:00",
+          "price_at_add": 85.99,
+          "stock_at_add_in_my_size": 27
+        },
+        {
+          "article_id": "0797229002",
+          "added_at": "2026-02-16T00:00:00",
+          "price_at_add": 52.99,
+          "stock_at_add_in_my_size": 26
+        },
+        {
+          "article_id": "0599945019",
+          "added_at": "2025-11-16T00:00:00",
+          "price_at_add": 57.99,
+          "stock_at_add_in_my_size": 27
+        }
+      ]
+    },
+    "segments": [
+      "long_tenured",
+      "outdoor_enthusiast",
+      "low_returner"
+    ],
+    "affinities": {
+      "index_groups": {
+        "Menswear": 0.773,
+        "Sport": 0.227
+      },
+      "price_band": {
+        "p25": 29.99,
+        "median": 35.99,
+        "p75": 59.99
+      }
+    }
+  },
+  {
+    "shopper_id": "0005",
+    "display_name": "Yuki",
+    "demographics": {
+      "age_band": "18-24",
+      "gender_presentation": "feminine",
+      "location": {
+        "climate": "temperate"
+      }
+    },
+    "declared": {
+      "sizes": {
+        "top": "XS",
+        "bottom": "24",
+        "shoe": "6"
+      },
+      "style_archetypes": [
+        "minimalist",
+        "bohemian"
+      ],
+      "value_priorities": {
+        "sustainability": 1,
+        "price": 2,
+        "quality": 3,
+        "comfort": 4,
+        "trend": 5
+      },
+      "material_avoid": [
+        "wool",
+        "leather",
+        "silk",
+        "fur"
+      ]
+    },
+    "purchase_history": {
+      "orders": [
+        {
+          "article_ids": [
+            "0750060001",
+            "0809798003"
+          ]
+        },
+        {
+          "article_ids": [
+            "0633136008",
+            "0669327001"
+          ]
+        }
+      ],
+      "aggregates": {
+        "total_items_purchased": 4,
+        "last_order_at": "2026-04-12T00:00:00",
+        "return_rate": 0.0
+      }
+    },
+    "browse_history": {
+      "wishlist": [
+        {
+          "article_id": "0752072006",
+          "added_at": "2026-02-06T00:00:00",
+          "price_at_add": 22.99,
+          "stock_at_add_in_my_size": 33
+        },
+        {
+          "article_id": "0874113005",
+          "added_at": "2026-04-04T00:00:00",
+          "price_at_add": 13.99,
+          "stock_at_add_in_my_size": 29
+        },
+        {
+          "article_id": "0377277027",
+          "added_at": "2026-03-27T00:00:00",
+          "price_at_add": 11.99,
+          "stock_at_add_in_my_size": 26
+        },
+        {
+          "article_id": "0699554001",
+          "added_at": "2026-03-27T00:00:00",
+          "price_at_add": 48.99,
+          "stock_at_add_in_my_size": 26
+        }
+      ]
+    },
+    "segments": [
+      "values_led",
+      "first_year_customer",
+      "gen_z"
+    ],
+    "affinities": {
+      "index_groups": {
+        "Ladieswear": 0.643,
+        "Divided": 0.357
+      },
+      "price_band": {
+        "p25": 13.99,
+        "median": 16.99,
+        "p75": 24.99
+      }
+    }
+  },
+  {
+    "shopper_id": "anonymous",
+    "display_name": "Visitor"
+  }
+]
