@@ -45,11 +45,6 @@ Your catalog is the public **H&M Personalized Fashion Recommendations** dataset 
 - Training your own recommendation model from scratch (use libraries or simple heuristics — we're not evaluating ML research)
 - A full storefront beyond the PDP
 
-## Time
-
-We expect this to take a focused weekend — somewhere around **6–8 hours**. If you find yourself blowing way past that, stop and send what you have along with notes on what you'd do with more time. We mean this.
-
-> ⚠️ Don't sink 20 hours into this. Three well-reasoned personalized modules beat seven half-finished ones every time.
 
 ## Deliverables
 

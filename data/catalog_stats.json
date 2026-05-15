@@ -1,0 +1,521 @@
+{
+  "total": 600,
+  "by_index_group": {
+    "Ladieswear": 180,
+    "Menswear": 150,
+    "Baby/Children": 100,
+    "Divided": 100,
+    "Sport": 70
+  },
+  "by_product_group": {
+    "Garment Upper body": 227,
+    "Garment Lower body": 141,
+    "Accessories": 48,
+    "Garment Full body": 43,
+    "Shoes": 37,
+    "Swimwear": 35,
+    "Socks & Tights": 34,
+    "Underwear": 29,
+    "Nightwear": 6
+  },
+  "by_garment_group": {
+    "Jersey Fancy": 68,
+    "Accessories": 60,
+    "Outdoor": 53,
+    "Trousers": 37,
+    "Knitwear": 36,
+    "Under-, Nightwear": 35,
+    "Jersey Basic": 35,
+    "Shoes": 34,
+    "Swimwear": 31,
+    "Trousers Denim": 31,
+    "Shorts": 30,
+    "Socks and Tights": 24,
+    "Special Offers": 24,
+    "Blouses": 19,
+    "Dresses Ladies": 19,
+    "Shirts": 18,
+    "Dressed": 18,
+    "Skirts": 16,
+    "Woven/Jersey/Knitted mix Baby": 6,
+    "Dresses/Skirts girls": 6
+  },
+  "unique_colors": 20,
+  "unique_product_types": 60,
+  "price_usd": {
+    "min": 4.99,
+    "median": 21.99,
+    "max": 88.99
+  },
+  "allocation_report": [
+    {
+      "index_group": "Ladieswear",
+      "garment_group": "Jersey Fancy",
+      "pool_size": 6141,
+      "sampled": 13,
+      "unique_colors": 18
+    },
+    {
+      "index_group": "Ladieswear",
+      "garment_group": "Accessories",
+      "pool_size": 4958,
+      "sampled": 12,
+      "unique_colors": 18
+    },
+    {
+      "index_group": "Ladieswear",
+      "garment_group": "Blouses",
+      "pool_size": 4474,
+      "sampled": 12,
+      "unique_colors": 19
+    },
+    {
+      "index_group": "Ladieswear",
+      "garment_group": "Under-, Nightwear",
+      "pool_size": 4439,
+      "sampled": 12,
+      "unique_colors": 18
+    },
+    {
+      "index_group": "Ladieswear",
+      "garment_group": "Knitwear",
+      "pool_size": 2910,
+      "sampled": 12,
+      "unique_colors": 19
+    },
+    {
+      "index_group": "Ladieswear",
+      "garment_group": "Trousers",
+      "pool_size": 2757,
+      "sampled": 12,
+      "unique_colors": 18
+    },
+    {
+      "index_group": "Ladieswear",
+      "garment_group": "Dresses Ladies",
+      "pool_size": 2598,
+      "sampled": 11,
+      "unique_colors": 18
+    },
+    {
+      "index_group": "Ladieswear",
+      "garment_group": "Shoes",
+      "pool_size": 1959,
+      "sampled": 11,
+      "unique_colors": 18
+    },
+    {
+      "index_group": "Ladieswear",
+      "garment_group": "Swimwear",
+      "pool_size": 1826,
+      "sampled": 11,
+      "unique_colors": 16
+    },
+    {
+      "index_group": "Ladieswear",
+      "garment_group": "Jersey Basic",
+      "pool_size": 1352,
+      "sampled": 10,
+      "unique_colors": 17
+    },
+    {
+      "index_group": "Ladieswear",
+      "garment_group": "Outdoor",
+      "pool_size": 1021,
+      "sampled": 10,
+      "unique_colors": 18
+    },
+    {
+      "index_group": "Ladieswear",
+      "garment_group": "Skirts",
+      "pool_size": 718,
+      "sampled": 10,
+      "unique_colors": 17
+    },
+    {
+      "index_group": "Ladieswear",
+      "garment_group": "Socks and Tights",
+      "pool_size": 645,
+      "sampled": 9,
+      "unique_colors": 14
+    },
+    {
+      "index_group": "Ladieswear",
+      "garment_group": "Dressed",
+      "pool_size": 619,
+      "sampled": 9,
+      "unique_colors": 18
+    },
+    {
+      "index_group": "Ladieswear",
+      "garment_group": "Special Offers",
+      "pool_size": 583,
+      "sampled": 9,
+      "unique_colors": 19
+    },
+    {
+      "index_group": "Ladieswear",
+      "garment_group": "Shorts",
+      "pool_size": 429,
+      "sampled": 9,
+      "unique_colors": 16
+    },
+    {
+      "index_group": "Ladieswear",
+      "garment_group": "Trousers Denim",
+      "pool_size": 225,
+      "sampled": 8,
+      "unique_colors": 11
+    },
+    {
+      "index_group": "Menswear",
+      "garment_group": "Jersey Fancy",
+      "pool_size": 2075,
+      "sampled": 12,
+      "unique_colors": 17
+    },
+    {
+      "index_group": "Menswear",
+      "garment_group": "Shirts",
+      "pool_size": 1433,
+      "sampled": 12,
+      "unique_colors": 18
+    },
+    {
+      "index_group": "Menswear",
+      "garment_group": "Accessories",
+      "pool_size": 1378,
+      "sampled": 11,
+      "unique_colors": 17
+    },
+    {
+      "index_group": "Menswear",
+      "garment_group": "Knitwear",
+      "pool_size": 1232,
+      "sampled": 11,
+      "unique_colors": 17
+    },
+    {
+      "index_group": "Menswear",
+      "garment_group": "Jersey Basic",
+      "pool_size": 1177,
+      "sampled": 11,
+      "unique_colors": 16
+    },
+    {
+      "index_group": "Menswear",
+      "garment_group": "Trousers",
+      "pool_size": 1120,
+      "sampled": 11,
+      "unique_colors": 16
+    },
+    {
+      "index_group": "Menswear",
+      "garment_group": "Outdoor",
+      "pool_size": 658,
+      "sampled": 10,
+      "unique_colors": 16
+    },
+    {
+      "index_group": "Menswear",
+      "garment_group": "Shoes",
+      "pool_size": 645,
+      "sampled": 10,
+      "unique_colors": 16
+    },
+    {
+      "index_group": "Menswear",
+      "garment_group": "Under-, Nightwear",
+      "pool_size": 528,
+      "sampled": 10,
+      "unique_colors": 14
+    },
+    {
+      "index_group": "Menswear",
+      "garment_group": "Shorts",
+      "pool_size": 459,
+      "sampled": 10,
+      "unique_colors": 15
+    },
+    {
+      "index_group": "Menswear",
+      "garment_group": "Trousers Denim",
+      "pool_size": 398,
+      "sampled": 10,
+      "unique_colors": 11
+    },
+    {
+      "index_group": "Menswear",
+      "garment_group": "Socks and Tights",
+      "pool_size": 357,
+      "sampled": 9,
+      "unique_colors": 15
+    },
+    {
+      "index_group": "Menswear",
+      "garment_group": "Dressed",
+      "pool_size": 284,
+      "sampled": 9,
+      "unique_colors": 13
+    },
+    {
+      "index_group": "Menswear",
+      "garment_group": "Swimwear",
+      "pool_size": 229,
+      "sampled": 9,
+      "unique_colors": 14
+    },
+    {
+      "index_group": "Menswear",
+      "garment_group": "Special Offers",
+      "pool_size": 25,
+      "sampled": 5,
+      "unique_colors": 7
+    },
+    {
+      "index_group": "Divided",
+      "garment_group": "Dresses Ladies",
+      "pool_size": 2260,
+      "sampled": 8,
+      "unique_colors": 18
+    },
+    {
+      "index_group": "Divided",
+      "garment_group": "Jersey Fancy",
+      "pool_size": 2111,
+      "sampled": 8,
+      "unique_colors": 18
+    },
+    {
+      "index_group": "Divided",
+      "garment_group": "Accessories",
+      "pool_size": 1432,
+      "sampled": 8,
+      "unique_colors": 16
+    },
+    {
+      "index_group": "Divided",
+      "garment_group": "Jersey Basic",
+      "pool_size": 1377,
+      "sampled": 7,
+      "unique_colors": 17
+    },
+    {
+      "index_group": "Divided",
+      "garment_group": "Blouses",
+      "pool_size": 1342,
+      "sampled": 7,
+      "unique_colors": 18
+    },
+    {
+      "index_group": "Divided",
+      "garment_group": "Knitwear",
+      "pool_size": 1295,
+      "sampled": 7,
+      "unique_colors": 17
+    },
+    {
+      "index_group": "Divided",
+      "garment_group": "Trousers",
+      "pool_size": 1272,
+      "sampled": 7,
+      "unique_colors": 18
+    },
+    {
+      "index_group": "Divided",
+      "garment_group": "Trousers Denim",
+      "pool_size": 868,
+      "sampled": 7,
+      "unique_colors": 16
+    },
+    {
+      "index_group": "Divided",
+      "garment_group": "Outdoor",
+      "pool_size": 766,
+      "sampled": 7,
+      "unique_colors": 17
+    },
+    {
+      "index_group": "Divided",
+      "garment_group": "Skirts",
+      "pool_size": 514,
+      "sampled": 6,
+      "unique_colors": 16
+    },
+    {
+      "index_group": "Divided",
+      "garment_group": "Under-, Nightwear",
+      "pool_size": 282,
+      "sampled": 6,
+      "unique_colors": 12
+    },
+    {
+      "index_group": "Divided",
+      "garment_group": "Shoes",
+      "pool_size": 275,
+      "sampled": 6,
+      "unique_colors": 17
+    },
+    {
+      "index_group": "Divided",
+      "garment_group": "Shorts",
+      "pool_size": 274,
+      "sampled": 6,
+      "unique_colors": 15
+    },
+    {
+      "index_group": "Divided",
+      "garment_group": "Special Offers",
+      "pool_size": 148,
+      "sampled": 5,
+      "unique_colors": 13
+    },
+    {
+      "index_group": "Divided",
+      "garment_group": "Swimwear",
+      "pool_size": 76,
+      "sampled": 5,
+      "unique_colors": 10
+    },
+    {
+      "index_group": "Baby/Children",
+      "garment_group": "Jersey Fancy",
+      "pool_size": 9091,
+      "sampled": 8,
+      "unique_colors": 18
+    },
+    {
+      "index_group": "Baby/Children",
+      "garment_group": "Jersey Basic",
+      "pool_size": 4177,
+      "sampled": 7,
+      "unique_colors": 17
+    },
+    {
+      "index_group": "Baby/Children",
+      "garment_group": "Accessories",
+      "pool_size": 3231,
+      "sampled": 7,
+      "unique_colors": 18
+    },
+    {
+      "index_group": "Baby/Children",
+      "garment_group": "Shoes",
+      "pool_size": 2179,
+      "sampled": 7,
+      "unique_colors": 17
+    },
+    {
+      "index_group": "Baby/Children",
+      "garment_group": "Under-, Nightwear",
+      "pool_size": 2106,
+      "sampled": 7,
+      "unique_colors": 17
+    },
+    {
+      "index_group": "Baby/Children",
+      "garment_group": "Knitwear",
+      "pool_size": 2036,
+      "sampled": 6,
+      "unique_colors": 16
+    },
+    {
+      "index_group": "Baby/Children",
+      "garment_group": "Woven/Jersey/Knitted mix Baby",
+      "pool_size": 1951,
+      "sampled": 6,
+      "unique_colors": 16
+    },
+    {
+      "index_group": "Baby/Children",
+      "garment_group": "Outdoor",
+      "pool_size": 1790,
+      "sampled": 6,
+      "unique_colors": 18
+    },
+    {
+      "index_group": "Baby/Children",
+      "garment_group": "Trousers Denim",
+      "pool_size": 1589,
+      "sampled": 6,
+      "unique_colors": 8
+    },
+    {
+      "index_group": "Baby/Children",
+      "garment_group": "Trousers",
+      "pool_size": 1553,
+      "sampled": 6,
+      "unique_colors": 16
+    },
+    {
+      "index_group": "Baby/Children",
+      "garment_group": "Dresses/Skirts girls",
+      "pool_size": 1535,
+      "sampled": 6,
+      "unique_colors": 18
+    },
+    {
+      "index_group": "Baby/Children",
+      "garment_group": "Socks and Tights",
+      "pool_size": 1256,
+      "sampled": 6,
+      "unique_colors": 18
+    },
+    {
+      "index_group": "Baby/Children",
+      "garment_group": "Shirts",
+      "pool_size": 674,
+      "sampled": 6,
+      "unique_colors": 17
+    },
+    {
+      "index_group": "Baby/Children",
+      "garment_group": "Swimwear",
+      "pool_size": 635,
+      "sampled": 6,
+      "unique_colors": 13
+    },
+    {
+      "index_group": "Baby/Children",
+      "garment_group": "Shorts",
+      "pool_size": 386,
+      "sampled": 5,
+      "unique_colors": 14
+    },
+    {
+      "index_group": "Baby/Children",
+      "garment_group": "Special Offers",
+      "pool_size": 303,
+      "sampled": 5,
+      "unique_colors": 14
+    },
+    {
+      "index_group": "Sport",
+      "garment_group": "Jersey Fancy",
+      "pool_size": 1935,
+      "sampled": 27,
+      "unique_colors": 17
+    },
+    {
+      "index_group": "Sport",
+      "garment_group": "Accessories",
+      "pool_size": 378,
+      "sampled": 22,
+      "unique_colors": 16
+    },
+    {
+      "index_group": "Sport",
+      "garment_group": "Outdoor",
+      "pool_size": 248,
+      "sampled": 20,
+      "unique_colors": 14
+    },
+    {
+      "index_group": "Sport",
+      "garment_group": "Trousers",
+      "pool_size": 1,
+      "sampled": 1,
+      "unique_colors": 1
+    }
+  ]
+}
