@@ -103,20 +103,20 @@ The hard filter that is applied first is
   The reason for this is a definite match for the current persona.
 
 Following is the score function that is applied to the remaining customers:
-Soft score per history customer. Higher = better lookalike.
-+2 age_band exact match
-+1 per shared style_archetype
-+2 top index_group in current's top-2
-+2 price_band ranges overlap
-+1 per shared field in current's top-2 value_priorities ranks (max +2)
-+1 per shared segment
-+1 last_order_at within 30 days
-+0.5 climate exact match
--2 return_rate > 0.3
+Soft score per customer. Higher = better lookalike.
+- +2 age_band exact match
+- +1 per shared style_archetype
+- +2 top index_group in current's top-2
+- +2 price_band ranges overlap
+- +1 per shared field in current's top-2 value_priorities ranks (max +2)
+- +1 per shared segment
+- +1 last_order_at within 30 days
+- +0.5 climate exact match
+- -2 return_rate > 0.3
 
 The reason for a score function vs a hard filter on the remaining fields is that the fields hold different values for each customer, and a hard filter may remove customers that are very similar in all fields but one.
 For example, a customer in the age band 35-44 can still have similar value priorities to a customer in the age band 45-54.
-All the fiends seem to compare to the current persona for matching but last_order_at within 30 days and return_rate > 0.3 are not. The reason for this we want to give some weight to customers that are recent buyers so the current persona can see more current purchases. And return_rate > 0.3 is a negative signal, so that the current persona does not follow the buying behavior of a high returner.
+All the fiends seem to compare to the current persona for matching but last_order_at within 30 days and return_rate > 0.3 are not. The reason for this we want to give some weight to customers who are recent buyers so the current persona can see more current purchases. And return_rate > 0.3 is a negative signal, so that the current persona does not follow the buying behavior of a high returner.
 
 After getting the score of the customers, we select the top 5 customers. If there are ties, we select the customer with higher total items purchased. From the 5 customers, we count every product the customers purchased using article_id. The top 8 products are recommend to the current persona.
 
@@ -142,12 +142,12 @@ Trade offs:
 
 We want to initiate a conversation with the user about the current product by giving a summary/highlight of the reviews of the current product written by similar customers.
 
-What reivews are chosen and given to the llm?
+What reviews are chosen and given to the llm?
 We use the same hard filter and scoring function as the 'Customers like you bought'. The only difference is we also check if the similar customer has written a review for the current product.
 
-This allows the current user to read a quick summary of the reviews that are most relevant to them. For example, someone who values comfort will leave a different review than someone who values trend the most. After the user reads the summary, they can ask the llm questions about the product or the reviews.
+This allows the current user to read a quick summary of the reviews that are most relevant to them. For example, someone who values comfort will leave a different review than someone who values trends the most. After the user reads the summary, they can ask the llm questions about the product or the reviews.
 
-There could be a case where a similar customer has not written a review. In that case, we pass the top 5 highly rated review to the llm. The top 5 highly rated reviews are also used for anonymous shoppers.
+There could be a case where a similar customer has not written a review. In that case, we pass the top 5 highly rated reviews to the llm. The top 5 highly rated reviews are also used for anonymous shoppers.
 
 Trade offs:
 
@@ -206,7 +206,7 @@ Note:
     - **median** — the middle of their typical spend
     - **p75** — 75th percentile (the expensive end)
 
-### How would the persona filds be gathered if this was real application?
+### How would the persona fields be collected in a real application?
 
 - demographics: derived from shipping address (climate via zip lookup) + signup form (age, gender). Standard Shopify Customer fields plus one computed enrichment (climate).
 
@@ -214,4 +214,4 @@ Note:
 
 - segments: Shopify customer tags, Klaviyo segments
 
-- affinities: pre-computed nightly from purchase_history + dwell-weighted browse data. In a real architecture, this would be a data-warehouse job (BigQuery/Snowflake) that syncs back to Shopify customer metafields. We compute it inline in our build script for the demo.
+- affinities: pre-computed nightly from purchase_history
