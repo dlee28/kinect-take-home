@@ -46,7 +46,7 @@ npm ships with Node.js, so installing Node.js will install npm automatically.
 
    ```bash
    git clone <repository-url>
-   cd cheyenne
+   cd kinect-take-home
    ```
 
 2. **Install dependencies:**
