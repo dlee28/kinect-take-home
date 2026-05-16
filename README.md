@@ -122,39 +122,35 @@ After getting the score of the customers, we select the top 5 customers. If ther
 
 Trade offs:
 
-- Using a hard filter on gender_presentation, it always filters out customers that are not the same gender as the current persona but it doesn't help when user is shopping for someone else or someone else is shopping on users account (no consideration for recent searches, browsing history)
-- Scoring function allows for flexibility in the weights of the fields, but how to score the pts for each field accurately can be difficult. If this is a route for improvement, we will have to come up with different scoring systems and see what system converts better.
-- Yes, number of purchases made on a product is a strong signal because it is the ultimate signal for if similar customers would
-  purchase the product, but it doesn't consider users current interests by using (search history, browsing history)
+- A scoring function gives us flexibility to adjust the weight of each field, but assigning accurate point values to those fields is challenging. If we pursue this approach, we will need to design and test multiple scoring systems to determine which one leads to better conversion.
+- The number of times a product is purchased is a strong signal of whether similar customers are interested in it, since purchases are the clearest indicator of interest. However, this signal does not capture a user’s current intent because it ignores PDP data such as search history and browsing history. 
 
 ### Wishlist Display
 
-Using the data of personas wishlist, we can display the wishlist items in a carousel on the PDP.
-We prioritize items that are on sale or low in stock. We display this information to the user, so they see the urgency of the item if the item is low in stock. and the discount of the item since they added it to their wishlist.
+We can use persona wishlist data to show wishlist items in a carousel on the PDP. Items that are on sale or low in stock should be prioritized. Displaying low-stock status can create urgency, while showing the discount since the item was added to the wishlist can reinforce the value of purchasing now.
 
 Trade offs:
 
-- Wishlist is a strong signal that a user wants that particular product. It could be that the product didn't fit the user's price band at the time they added it to their wishlist. This is why we prioritize displaying items that are on sale or low in stock. A downside to this could be now that user sees the item on sale and not low in stock, they will continue to wait to purchase the item.
-- Anonymous shoppers do not have a wishlist, so we can only display the wishlist items for identified users.
-- Some users may not have any items on a wishlist, so we would not have any items to display. Need a fallback display.
+- Wishlist is a strong signal that a user wants that particular product. It could be that the product didn't fit the user's price band at the time they added it to their wishlist. This is why we prioritize displaying items that are on sale or low in stock. A downside to this could be that now that the user sees the item on sale and not low in stock, they will continue to wait to purchase the item.
+- Anonymous shoppers do not have a wishlist, so we can only display the wishlist items for identified users. And identified users may not have any items on a wishlist, so we would not have any items to display. Meaning we need a fallback display.
 
-### Chat system that knows reviews of the current product from similar customers
+### Chat system for reviews from similar customers
+We want to start a conversation with the user about the current product by showing a summary of reviews written by similar customers.
 
-We want to initiate a conversation with the user about the current product by giving a summary/highlight of the reviews of the current product written by similar customers.
+Which reviews are sent to the LLM?
+We use the same hard filter and scoring function as the “Customers like you bought” system. The only additional requirement is that the similar customer must have written a review for the current product.
 
-What reviews are chosen and given to the llm?
-We use the same hard filter and scoring function as the 'Customers like you bought'. The only difference is we also check if the similar customer has written a review for the current product.
+Why this helps
+This approach gives the user a quick summary of the reviews that are most relevant to them. Different customers care about different product qualities. For example, a customer who prioritizes comfort may write a very different review from someone who cares most about style or trends. After reading the summary, the user can ask the LLM follow-up questions about the product or the reviews.
 
-This allows the current user to read a quick summary of the reviews that are most relevant to them. For example, someone who values comfort will leave a different review than someone who values trends the most. After the user reads the summary, they can ask the llm questions about the product or the reviews.
-
-There could be a case where a similar customer has not written a review. In that case, we pass the top 5 highly rated reviews to the llm. The top 5 highly rated reviews are also used for anonymous shoppers.
+Fallback case
+In some cases, no similar customer will have written a review for the current product. When that happens, we send the top five highest-rated reviews to the LLM instead. We also use these top five reviews for anonymous shoppers.
 
 Trade offs:
 
-- A lot of reviews from different types of customers are needed to give a meaningful review summary based on persona
-- Convenience of the user not having to scroll to the reviews section and being able to ask questions about the product or the reviews.
-- Cost of tokens. By messaging the user first through the chat widget, we are using more tokens that if we were waiting for the user to ask a question or just simply displaying the reviews.
-- No data on whether providing the most relevant reviews to the user will lead to a more engaging conversation. This is data that would need to be collected through tracing or session data.
+- A meaningful persona-based review summary requires a large and diverse set of reviews from different customer types.
+- This improves convenience for the user by removing the need to scroll to the reviews section and allowing them to ask follow-up questions about the product or the reviews directly.
+- There is a token cost tradeoff. If we proactively send the first message through the chat widget, we use more tokens than if we wait for the user to start the conversation or simply show the reviews without chat. Meaning, we need to collect data showing whether summarizing and showing the most relevant reviews leads to more engaging conversations. To answer this, we would need to collect and analyze tracing or session-level data.
 
 Note:
 - Some products do not have reviews, resulting in the chat not messaging first.
